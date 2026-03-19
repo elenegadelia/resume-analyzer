@@ -1,0 +1,41 @@
+Job Title: Machine Learning Engineer
+
+Company: TechCorp AI
+Location: San Francisco, CA (Hybrid)
+
+ABOUT THE ROLE
+We are looking for a skilled Machine Learning Engineer to join our AI platform team.
+You will design, build, and deploy machine learning models that power our core products.
+You will collaborate closely with data scientists, software engineers, and product managers.
+
+RESPONSIBILITIES
+- Design and implement machine learning pipelines for classification, regression, and NLP tasks
+- Build and maintain data preprocessing and feature engineering workflows
+- Deploy machine learning models to production using REST APIs and cloud infrastructure
+- Monitor model performance and implement retraining strategies
+- Write clean, tested, and documented Python code
+- Collaborate in agile ceremonies and contribute to technical roadmap discussions
+- Work with large structured and unstructured datasets
+
+REQUIRED QUALIFICATIONS
+- 2+ years of experience in machine learning or data science
+- Strong Python programming skills
+- Experience with scikit-learn, XGBoost, or similar ML frameworks
+- Familiarity with NLP techniques: TF-IDF, word embeddings, text classification
+- Experience with SQL and working with relational databases
+- Understanding of model evaluation metrics (precision, recall, F1-score, AUC-ROC)
+- Experience with Git and collaborative software development
+- Strong problem-solving and communication skills
+
+PREFERRED QUALIFICATIONS
+- Experience deploying models with Docker and cloud platforms (AWS, GCP, Azure)
+- Knowledge of deep learning frameworks (TensorFlow, PyTorch)
+- Familiarity with data pipeline tools (Airflow, Prefect, or similar)
+- Experience with MLflow or model experiment tracking
+- Background in A/B testing or statistical analysis
+
+TECH STACK
+Python, scikit-learn, XGBoost, TensorFlow, spaCy, pandas, NumPy, PostgreSQL, AWS, Docker, Git, Airflow
+
+We offer a collaborative environment, competitive salary ($130k-$180k), and remote-friendly culture.
+Apply with your resume and a brief note about a machine learning project you are proud of.

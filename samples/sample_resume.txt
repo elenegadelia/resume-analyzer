@@ -1,0 +1,44 @@
+Jane Smith
+jane.smith@email.com | linkedin.com/in/janesmith | github.com/janesmith | San Francisco, CA
+
+PROFESSIONAL SUMMARY
+Data scientist and machine learning engineer with 3 years of experience building predictive models and NLP pipelines. Passionate about transforming raw data into actionable insights. Strong communicator with experience presenting findings to non-technical stakeholders.
+
+SKILLS
+Programming: Python, SQL, R, Bash
+Machine Learning: scikit-learn, XGBoost, LightGBM, TensorFlow (basic)
+NLP: spaCy, NLTK, TF-IDF, word embeddings, text classification
+Data: pandas, NumPy, Matplotlib, Seaborn, Plotly
+Tools: Git, Docker, Jupyter, VS Code, Airflow (basic)
+Cloud: AWS S3, Google Cloud Storage
+Databases: PostgreSQL, MongoDB
+
+EXPERIENCE
+
+Machine Learning Engineer — DataTech Solutions, San Francisco, CA (2022–Present)
+- Built a resume screening NLP pipeline using TF-IDF and cosine similarity, reducing recruiter workload by 40%
+- Developed and deployed a customer churn prediction model (XGBoost) achieving 87% accuracy
+- Created automated data pipelines using Python and Apache Airflow
+- Collaborated with product and engineering teams to integrate ML models into production APIs
+- Wrote unit tests and maintained documentation for all ML components
+
+Data Analyst — Insight Analytics, Remote (2021–2022)
+- Analyzed customer behavior data using SQL and Python (pandas)
+- Built dashboards in Tableau and Plotly for executive reporting
+- Automated weekly reports using Python scripts, saving 5 hours per week
+
+EDUCATION
+B.Sc. Computer Science — University of California, Berkeley (2021)
+Relevant coursework: Machine Learning, Natural Language Processing, Statistics, Algorithms
+
+CERTIFICATIONS
+- AWS Certified Cloud Practitioner (2023)
+- Google Professional Data Engineer (2022)
+
+PROJECTS
+Resume Analyzer (Python, scikit-learn, spaCy, Streamlit)
+  NLP application that compares resumes against job descriptions using TF-IDF vectorization
+  and cosine similarity to compute match scores and identify keyword gaps.
+
+Customer Sentiment Analysis (Python, NLTK, Logistic Regression)
+  Trained a sentiment classifier on 50,000 product reviews achieving 91% F1-score.
