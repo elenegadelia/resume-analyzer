@@ -1,6 +1,6 @@
 # 📄 Resume / CV Analyzer with NLP
 
-A professional NLP portfolio project that analyzes a candidate's resume against a job description using **TF-IDF vectorization**, **cosine similarity**, and **keyword gap analysis** — the same techniques used in real Applicant Tracking Systems (ATS).
+A professional NLP portfolio project that analyzes a candidate's resume against a job description using **TF-IDF vectorization**, **cosine similarity**, and **keyword gap analysis** - the same techniques used in real Applicant Tracking Systems (ATS).
 
 > Built with Python · scikit-learn · spaCy · Streamlit · Plotly
 
@@ -25,7 +25,7 @@ A professional NLP portfolio project that analyzes a candidate's resume against 
 
 ## 🧠 How It Works (NLP Concepts)
 
-### TF-IDF (Term Frequency–Inverse Document Frequency)
+### TF-IDF (Term Frequency-Inverse Document Frequency)
 TF-IDF measures how important a word is to a document relative to a collection.
 - **TF**: how often the word appears in this document
 - **IDF**: how rare the word is across all documents
@@ -48,7 +48,7 @@ This blend is both technically grounded and intuitively meaningful.
 ### Why Not Transformers (BERT/GPT)?
 TF-IDF is:
 - ✅ Transparent and fully explainable
-- ✅ Fast — runs in milliseconds on your laptop
+- ✅ Fast - runs in milliseconds on your laptop
 - ✅ No API keys or internet required
 - ✅ Standard interview topic for NLP/ML roles
 - ✅ Directly mirrors real ATS systems
